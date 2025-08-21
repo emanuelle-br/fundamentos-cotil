@@ -15,6 +15,17 @@ Atualmente curso o 1° ano do técnico de *Desenolvimento de Sistemas* no **COTI
 * Mídia (projeção/ vídeos)
 * [Programação](https://pt.wikipedia.org/wiki/Programação_de_computadores) (em andamento)
 
+## Meu primeiro programa:
+
+```c
+#include <stdio.h>
+
+int main() {
+
+    printf("Olá, mundo!\n");
+
+    return true;
+}
 
 
 
