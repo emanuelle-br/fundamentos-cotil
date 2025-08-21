@@ -24,7 +24,7 @@ int main() {
 
     printf("Olá, mundo!\n");
 
-    return true;
+    return 0;
 }
 
 
